@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Creat.c" open="0" top="0" tabpos="11">
+		<Cursor position="129" topLine="0" />
+	</File>
+	<File name="Header.h" open="0" top="0" tabpos="2">
+		<Cursor position="147" topLine="0" />
+	</File>
+	<File name="charu.c" open="0" top="0" tabpos="9">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="chaxun.c" open="0" top="0" tabpos="10">
+		<Cursor position="60" topLine="15" />
+	</File>
+	<File name="main.c" open="0" top="0" tabpos="8">
+		<Cursor position="668" topLine="0" />
+	</File>
+	<File name="out.c" open="0" top="0" tabpos="7">
+		<Cursor position="71" topLine="0" />
+	</File>
+	<File name="paixu.c" open="0" top="0" tabpos="5">
+		<Cursor position="269" topLine="0" />
+	</File>
+	<File name="shanchu.c" open="0" top="0" tabpos="3">
+		<Cursor position="1198" topLine="0" />
+	</File>
+	<File name="xianshi.c" open="0" top="0" tabpos="4">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="xiugai.c" open="0" top="0" tabpos="6">
+		<Cursor position="108" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

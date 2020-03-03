@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1530085608 source:d:\实习课设\xueshengguanli\charu.c
+	"Header.h"
+
+1530085910 d:\实习课设\xueshengguanli\header.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1530085938 source:d:\实习课设\xueshengguanli\creat.c
+	"Header.h"
+
+1530085952 source:d:\实习课设\xueshengguanli\chaxun.c
+	"Header.h"
+
+1530086486 source:d:\实习课设\xueshengguanli\main.c
+	"Header.h"
+
+1530085965 source:d:\实习课设\xueshengguanli\out.c
+	"Header.h"
+
+1530085992 source:d:\实习课设\xueshengguanli\paixu.c
+	"Header.h"
+
+1530086093 source:d:\实习课设\xueshengguanli\shanchu.c
+	"Header.h"
+
+1530085608 source:d:\实习课设\xueshengguanli\xianshi.c
+	"Header.h"
+
+1530086204 source:d:\实习课设\xueshengguanli\xiugai.c
+	"Header.h"
+
